@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Te doy la bienvenida!</p>
+<p align="right">Te doy la bienvenida!</p>
 
 ###
 

@@ -1,12 +1,4 @@
-<h1 align="center">HERBERT</h1>
-
-###
-
-<p align="left">Desarrollo de software</p>
-
-###
-
-<p align="right">Te doy la bienvenida!</p>
+<h1 align="center">TE DOY LA BIENVENIDA!</h1>
 
 ###
 

@@ -14,7 +14,7 @@
 
   <!-- === Órbita 1 === -->
   <g id="orbit-1">
-    <image x="143" y="98" width="34" height="34" href="https://raw.githubusercontent.com/JhonGonzzzales/JhonGonzzzales/main/flutter-original.svg">
+    <image x="143" y="98" width="34" height="34" href="https://raw.githubusercontent.com/JhonGonzzzales/JhonGonzzzales/flutter-original.svg">
         <animateTransform attributeName="transform" type="rotate" from="0 160 115" to="-360 160 115" dur="12s" repeatCount="indefinite" />
     </image>
     <image x="143" y="188" width="34" height="34" href="https://raw.githubusercontent.com/JhonGonzzzales/JhonGonzzzales/main/dart-original.svg">

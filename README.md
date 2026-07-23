@@ -1,5 +1,4 @@
 ###
-<p align="left">_______________________________________________________________________________________________________________________________________________</p>
 <h3 align="left">Mobile</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
